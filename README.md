@@ -7,7 +7,7 @@ To simulate the Pre Processing for 3D printing.
 - System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
-Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
+- Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
 
 - 1)	CAD File
 - 2)	Conversion to STL a. Orientation b. Support Structure c. Slicing d. Path Planning
